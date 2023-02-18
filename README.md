@@ -7,7 +7,7 @@ The dataset is stored at https://www.kaggle.com/datasets/gregsvein55/canola-dise
 The system works using a Convolutional Neural Network using the basic structure of Convolation -> Pooling -> Convolation -> Pooling -> Fully Connected Layer -> Output.
 I did a 70/30 validation split, so 70% of the data was training and 30% was testing. The max I was able to get in all my testing was around 90% validation accuracy, which is acceptable for my prototype, althought it would need a lot more images and diversity training to ever be a fully functioning system. 
 
-# Running the System
+# Train it yourself
 ## Step 1
 Download canola_disease.ipynb and then upload it to your Google Drive with Collabatory
 ## Step 2
